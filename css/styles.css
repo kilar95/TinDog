@@ -7,7 +7,7 @@ h1, h2, h3, h4, h5 {
   font-weight: 900;
 }
 
-h2 {                  /* next time refactoring: aggiungere classi specifiche agli h2 e agli h3 delle sezioni corrispondendi */
+h2 {                  
   font-size: 3rem;
   line-height: 1.5;
 }
